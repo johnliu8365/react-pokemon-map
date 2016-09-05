@@ -1,12 +1,16 @@
 # ice react pokemon map project
 
-Components:
+Inline-style: 
+![alt text](https://github.com/smalltide/react-pokemon-map/blob/master/screenshot.png "Pokemon Map")
+
+
+#### Components:
 1. pokemon_select_bar
 2. pokemon_info
 3. pokemon_map
 4. pokemon_marker
 
-Actions:
+#### Actions:
 1. fetchPokemonInfo
 2. fetchPokemonsLocation
 3. fetchPokemonsList
@@ -15,7 +19,7 @@ Actions:
 6. setMapZoomLevel
 7. setSearchLocation
 
-Reducers:
+#### Reducers:
 1. reducer_pokemon
 2. reducer_filter_data
 
