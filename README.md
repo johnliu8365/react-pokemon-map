@@ -25,8 +25,7 @@ Inline-style:
 
 ```
 	> git clone git@github.com:smalltide/react-pokemon-map.git
-	> cd mrwr
-	> cd ice
+	> cd react-pokemon-map
 	> npm install
 	> npm start
 ```
